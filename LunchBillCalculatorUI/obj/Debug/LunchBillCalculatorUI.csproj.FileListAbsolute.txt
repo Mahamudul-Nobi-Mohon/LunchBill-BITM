@@ -1,0 +1,8 @@
+E:\Batch 29\27.09.2016\LunchBillCalculatorUI\LunchBillCalculatorUI\bin\Debug\LunchBillCalculatorUI.exe.config
+E:\Batch 29\27.09.2016\LunchBillCalculatorUI\LunchBillCalculatorUI\bin\Debug\LunchBillCalculatorUI.exe
+E:\Batch 29\27.09.2016\LunchBillCalculatorUI\LunchBillCalculatorUI\bin\Debug\LunchBillCalculatorUI.pdb
+E:\Batch 29\27.09.2016\LunchBillCalculatorUI\LunchBillCalculatorUI\obj\Debug\LunchBillCalculatorUI.LunchBillCalculatorUI.resources
+E:\Batch 29\27.09.2016\LunchBillCalculatorUI\LunchBillCalculatorUI\obj\Debug\LunchBillCalculatorUI.Properties.Resources.resources
+E:\Batch 29\27.09.2016\LunchBillCalculatorUI\LunchBillCalculatorUI\obj\Debug\LunchBillCalculatorUI.csproj.GenerateResource.Cache
+E:\Batch 29\27.09.2016\LunchBillCalculatorUI\LunchBillCalculatorUI\obj\Debug\LunchBillCalculatorUI.exe
+E:\Batch 29\27.09.2016\LunchBillCalculatorUI\LunchBillCalculatorUI\obj\Debug\LunchBillCalculatorUI.pdb
